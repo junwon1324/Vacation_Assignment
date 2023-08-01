@@ -26,8 +26,8 @@
 
 ## 모작
 
-https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x 해당 재생목록에 들어가 '유니티 뱀서라이크 01' 영상의 02.에셋 가져오기 부터 따라하면 됨<br>
-모작은 전부가 아닌 '유니티 뱀서라이크 11+' 까지 따라하면 됩니다. (대략 7시간 분량)
+https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x 해당 재생목록에 들어가 [유니티 뱀서라이크 01] 영상의 '02.에셋 가져오기' 부터 따라하면 됨<br>
+모작은 전부가 아닌 [유니티 뱀서라이크 11+] 까지 따라하면 됩니다. (대략 7시간 분량)
 
 ## 과제 제출
 추후 공지
