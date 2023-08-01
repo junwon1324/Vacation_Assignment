@@ -31,3 +31,6 @@ https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x 해당 
 
 ## 과제 제출
 추후 공지
+
+## 추가사항
+혹시 막히는 부분이 있다면 이슈로 질문해 주시길 바랍니다.
