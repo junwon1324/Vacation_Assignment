@@ -30,7 +30,8 @@ https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x 해당 
 모작은 전부가 아닌 [유니티 뱀서라이크 11+] 까지 따라하면 됩니다. (대략 7시간 분량)
 
 ## 과제 제출
-추후 공지
+https://github.com/woowacourse/woowacourse-docs/tree/main/precourse
+위의 링크를 참고하여 해당 레포지토리에 올려주세요.
 
 ## 추가사항
 혹시 막히는 부분이 있다면 이슈로 질문해 주시길 바랍니다.
